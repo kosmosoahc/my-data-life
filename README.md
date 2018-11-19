@@ -1,9 +1,10 @@
 # my-data-life
 
-*`sucks :tired_face: then :curly_loop: sorting :relaxed: `*
-- [x] 犯懒
-- [x] 拖延
-- [ ] 习惯
+:tired_face: *`sucks`* :cyclone: *`then`* :curly_loop: *`sorting`* :relaxed:
+- [x] 犯懒 :heavy_exclamation_mark:
+- [x] 拖延 :x:
+- [ ] 习惯 :o:
+- [ ] :100: :white_check_mark:
 
 
 > 纪录片
