@@ -13,6 +13,28 @@
 - 待续
 
 
-> 占
+> 记者
 
--
+- [全球深度报道网](https://cn.gijn.org/)
+
+
+> Security
+
+- [Electronic Frontier Foundation](https://www.eff.org/)
+- [Front Line Defenders](Front Line Defenders)
+- [The Citizen Lab](https://citizenlab.ca/)
+
+
+> Music and Podcast
+
+- [掘火档案](http://digforfire.net/)
+
+
+> Program
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+
+> holding
+
+- [online investigations](https://www.bellingcat.com/)
