@@ -18,6 +18,16 @@
 - [全球深度报道网](https://cn.gijn.org/)
 
 
+> Digital Journalism
+
+- [Knight Lab](https://learn.knightlab.com/)
+- [镝数](https://dydata.io/vis/charts.html)
+
+> Data source
+
+- [Our World in Data](ourworldindata.org)
+- []
+
 > Security
 
 - [Electronic Frontier Foundation](https://www.eff.org/)
@@ -38,3 +48,5 @@
 > holding
 
 - [online investigations](https://www.bellingcat.com/)
+- [DEF CON](https://www.defcon.org/)
+- [Chaos Computer Club](https://www.ccc.de/)
