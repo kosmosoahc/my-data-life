@@ -45,6 +45,11 @@
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 
+> Hardware
+
+-[PINE64](https://www.pine64.org/)
+
+
 > holding
 
 - [online investigations](https://www.bellingcat.com/)
